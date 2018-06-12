@@ -3,7 +3,7 @@ Write a for-loop that will iterate through 20 numbers (starting at 1 and ending 
 "Now serving 1."
 "Now serving 2."
 "Now serving 3."
-.
+for.
 .
 .
 "Now serving 20."
