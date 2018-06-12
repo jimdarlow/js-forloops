@@ -9,6 +9,10 @@ for.
 "Now serving 20."
 */
 
+for (i=0;i<21;i++){
+  console.log( "Now serving "+i);
+}
+
 
 /* 2) Pop Charts
 Write a for-loop that will iterate through the topFive array below and console.log the following message:
